@@ -9,4 +9,13 @@ Whether you're looking for inspiration, optimization ideas, or ready-to-use conf
 ## Tools
 
 **Tmux**
+*Download and apply the tmux configuration for the current user:**
+```sh
+curl -sS -o ~/.tmux.conf https://raw.githubusercontent.com/0xFLE1J4/toolsConfig/refs/heads/main/tmux/.tmux.conf
+```
+
+*Download the project description in Markdown format:*
+```sh
+curl -sS -o description.md https://raw.githubusercontent.com/0xFLE1J4/toolsConfig/refs/heads/main/tmux/description.md
+```
 <img width="1891" height="1020" alt="image" src="https://github.com/user-attachments/assets/3193cd05-5e99-4d0c-a028-80e1fed63aae" />
