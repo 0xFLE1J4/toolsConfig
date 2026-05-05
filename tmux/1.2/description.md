@@ -90,8 +90,8 @@ sudo pacman -S wl-clipboard
 #### 4. Apply the Configuration
 
 ```bash
-git clone https://github.com/0xFLE1J4/toolsConfig.git
-cp toolsConfig/tmux/.tmux.conf ~/.tmux.conf
+git clone https://github.com/unsafeOxOggy/toolsConfig.git
+cp .tmux.conf ~/.tmux.conf
 ```
 
 Or place the file manually at `~/.tmux.conf`.
